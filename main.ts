@@ -1,0 +1,2 @@
+menu.addmenuoption("", img` `, function() {
+})
