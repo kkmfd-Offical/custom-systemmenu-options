@@ -1,21 +1,18 @@
 {
     "name": "Custom Systemmenu Options",
-    "description": "",
+    "description": "An extention that allows you to add custom menu options in the system menu",
     "dependencies": {
         "device": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "assets.json",
-        "systemMenu.ts"
+        "systemMenu.ts",
+        "main.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
-        "target": "1.12.26",
+        "target": "1.13.21",
         "targetId": "arcade"
     },
     "supportedTargets": [
