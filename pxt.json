@@ -1,5 +1,5 @@
 {
-    "name": "Custom Systemmenu Options",
+    "name": "Custom Systemmenu Options Extra",
     "description": "An extention that allows you to add custom menu options in the system menu",
     "dependencies": {
         "device": "*"
